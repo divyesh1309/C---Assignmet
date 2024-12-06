@@ -8,8 +8,14 @@ using namespace std;
 
 int main () {
 
+    int a;
+    int b;
 
-    int a = 10, b = 15;
+    cout<<"Enter first number : ";
+    cin >> a;
+
+    cout<<"Enter second number : ";
+    cin >>b;
 
     // Arithmetic Operators
     cout << "Arithmetic Operators : " << endl;
